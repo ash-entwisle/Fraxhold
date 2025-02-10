@@ -1,0 +1,2 @@
+# Sleight 
+Sleight (SLI) is how skilled you are with your hands. Where finesse encompasses how your body moves, sleight is focussed on just your hands. How well you can draw, pick locks or play an instrument. 

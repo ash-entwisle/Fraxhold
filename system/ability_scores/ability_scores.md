@@ -8,3 +8,4 @@ You have 5 Core Abilities:
 - [Resilience](resilience.md)
 - [Knowledge](knowledge.md)
 - [Intuition](intuition.md)
+- [Charisma](charisma.md)
